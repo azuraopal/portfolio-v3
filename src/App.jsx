@@ -20,7 +20,6 @@ const App = () => {
         <Navbar />
         <About />
         <Skills />
-        <Work />
         <Education />
         <Contact />
         <Footer />

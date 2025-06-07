@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { FiMenu, FiX } from "react-icons/fi";
 import { FaGithub, FaLinkedin, FaTwitter } from "react-icons/fa";
-import logo from "/src/assets/shruti_dubey_logo_no_bg.png";
+import logo from "/src/assets/logo_no_bg.png";
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -11,7 +11,6 @@ const Navbar = () => {
   const menuItems = [
     { id: "about", label: "About" },
     { id: "skills", label: "Skills" },
-    { id: "work", label: "Projects" },
     { id: "education", label: "Education" },
     { id: "contact", label: "Contact"},
   ];
