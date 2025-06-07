@@ -48,7 +48,7 @@ function About() {
 
           {/* Resume Button */}
           <a
-            href=""
+            href="https://drive.google.com/drive/folders/1vTlzzCUaSqCWFp4qmgyf1_2k32zTx-Z-?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-white py-2 px-8 rounded-full mt-2 text-lg font-bold transition duration-300 transform hover:scale-105"
